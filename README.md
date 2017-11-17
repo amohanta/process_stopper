@@ -6,5 +6,5 @@ Process Stopper is a malware analysis tool that does not allow any of the the pr
 
 Process_Stopper is a kernel driver and one can install it using tools like OsrLoader . The tool has been tested on windows XP. 
 
-Disclaimer: This prgram is  a proof on concept tool and sometimes hangs the system.Please test it only inside virtual machine and in windows XP. 
+Disclaimer: This prgram is  a proof on concept tool and sometimes hangs the system if you try to kill a process without unloading the driver.Please test it only inside virtual machine and in windows XP. 
 
