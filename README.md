@@ -1,4 +1,5 @@
 Author: Abhijit Mohanta
+
 email: abhijit.mohanta.15.08@gmail.com
 
 Malware analysts sometimes need to view memory of a malicious process.windows Process memory can be viewed with tools like process Explorer, or process Hacker. Sometimes the malicious process terminates even before analyst gets a chance to look into the memory.
