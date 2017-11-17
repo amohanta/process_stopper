@@ -1,6 +1,8 @@
-Author:Abhijit Mohanta. abhijit.mohanta.15.08@gmail.com
+Author: Abhijit Mohanta
+email: abhijit.mohanta.15.08@gmail.com
 
 Malware analysts sometimes need to view memory of a malicious process.windows Process memory can be viewed with tools like process Explorer, or process Hacker. Sometimes the malicious process terminates even before analyst gets a chance to look into nthe memory.
-Process Stopper is a malaware analysis tools that does not allow any of the the process to exit. proces_stopper is a driver and one can install it using tools like OsrLoader or other driver installers . The tool has been tested on windows XP. 
+Process Stopper is a malware analysis tool that does not allow any of the the process to exit after it is loaded. Process_Stopper is a driver and one can install it using tools like OsrLoader or other driver installers . The tool has been tested on windows XP. 
+
 Disclaimer: This this a proof on concept tool and sometimes hangs the system.Please test it only in virtual machine and in windows XP. 
 
